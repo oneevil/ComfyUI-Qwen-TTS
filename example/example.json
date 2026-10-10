@@ -77,7 +77,7 @@
         }
       },
       "widgets_values": [
-        "雷军.mp3",
+        "LeiJun.mp3",
         null,
         null
       ]
@@ -258,12 +258,12 @@
         }
       },
       "widgets_values": [
-        "有些事，只要国家需要，就得有人扛起来。\n我们那一代人，是背着泥土铺路的；\n你们要做的，是让这条路，通向星辰大海。",
-        "角色姓名：林怀岳\n音色信息：音量洪亮，音域低沉，力度感强的中年男性声音。\n身份背景：某国家重点科研项目首席顾问，年近七十的资深战略科学家。曾参与国家重大科技攻关工程，历经数十年风雨，见证了从落后追赶到自主创新的艰难历程。现任国家科技咨询委员会终身荣誉委员，仍坚持在一线培养青年人才，为国家战略发展建言献策。\n外貌特征：身形挺拔，两鬓斑白，眉宇间刻着岁月沉淀的坚毅。常着深色中山装或简洁正装，眼神沉静而锐利，举手投足间自带威严与从容。\n性格特质：意志如钢，信念坚定，面对挑战从不退缩；胸怀家国，心系民族未来，将个人命运与国家兴衰紧密相连；严谨自律，言出必行，话语中充满责任感与历史担当；外冷内热，表面严肃，实则对后辈寄予厚望，甘为人梯。\n人生信条：“我们这一代人，不是为了站在光里，而是为了把路铺到光里。”",
+        "Some things, as long as the country needs them, someone has to shoulder.\nOur generation carried earth on our backs to pave the road;\nwhat you must do is make this road lead to the stars and the sea.",
+        "Character name: Lin Huaiyue\nVoice: a middle-aged male voice, loud and resonant, with a low register and strong force.\nBackground: chief advisor to a key national research project, a veteran strategic scientist nearing seventy. He took part in major national science and technology programs and, over decades of hardship, witnessed the difficult journey from catching up from behind to independent innovation. Now a lifetime honorary member of the National Science and Technology Advisory Committee, he still trains young talent on the front line and offers counsel on the country's strategic development.\nAppearance: upright posture, graying temples, a resolve between his brows that the years have settled there. He usually wears a dark Zhongshan suit or plain formal wear; his gaze is calm yet sharp, and every gesture carries authority and composure.\nPersonality: a will of steel and firm convictions, never backing down from a challenge; devoted to his homeland and the nation's future, binding his own fate to the rise and fall of the country; rigorous and self-disciplined, a man of his word, whose speech is full of responsibility and a sense of historical duty; cold on the outside but warm within, stern in appearance yet placing high hopes in the younger generation and glad to be a ladder for others.\nMotto: \"Our generation is not here to stand in the light, but to pave the road into the light.\"",
         "1.7B",
         "auto",
         "bf16",
-        "Chinese",
+        "English",
         356099600882452,
         "randomize",
         2048,
@@ -466,12 +466,12 @@
         "Node name for S&R": "FB_Qwen3TTSVoiceClone"
       },
       "widgets_values": [
-        "好啊。好吧，我把这只袜猴留在这里。再见。",
+        "Sure. All right, I'll leave this sock monkey here. Goodbye.",
         "1.7B",
         "auto",
         "bf16",
         "Auto",
-        "只要站在风口上,声音也能飞起来",
+        "As long as you stand where the wind blows, even a voice can fly",
         682779102015929,
         "randomize",
         2048,
@@ -670,15 +670,15 @@
         }
       },
       "widgets_values": [
-        "你龟儿太过分了，把我的东西都搞坏了，还晓不晓得认错，硬是要把我整冒火你才安逸嗦，莫再烦老子爬球开。",
+        "You little rascal, you've gone too far! You broke all my stuff and you still won't admit you're wrong. You just won't be happy until you've made me lose my temper, will you? Stop bothering me and get lost.",
         "Eric",
         "1.7B",
         "auto",
         "bf16",
-        "Chinese",
+        "English",
         435637652599430,
         "randomize",
-        "角色姓名：林怀岳\n音色信息：音量洪亮，音域低沉，力度感强的中年男性声音。\n身份背景：某国家重点科研项目首席顾问，年近七十的资深战略科学家。曾参与国家重大科技攻关工程，历经数十年风雨，见证了从落后追赶到自主创新的艰难历程。现任国家科技咨询委员会终身荣誉委员，仍坚持在一线培养青年人才，为国家战略发展建言献策。\n外貌特征：身形挺拔，两鬓斑白，眉宇间刻着岁月沉淀的坚毅。常着深色中山装或简洁正装，眼神沉静而锐利，举手投足间自带威严与从容。\n性格特质：意志如钢，信念坚定，面对挑战从不退缩；胸怀家国，心系民族未来，将个人命运与国家兴衰紧密相连；严谨自律，言出必行，话语中充满责任感与历史担当；外冷内热，表面严肃，实则对后辈寄予厚望，甘为人梯。\n人生信条：“我们这一代人，不是为了站在光里，而是为了把路铺到光里。”",
+        "Character name: Lin Huaiyue\nVoice: a middle-aged male voice, loud and resonant, with a low register and strong force.\nBackground: chief advisor to a key national research project, a veteran strategic scientist nearing seventy. He took part in major national science and technology programs and, over decades of hardship, witnessed the difficult journey from catching up from behind to independent innovation. Now a lifetime honorary member of the National Science and Technology Advisory Committee, he still trains young talent on the front line and offers counsel on the country's strategic development.\nAppearance: upright posture, graying temples, a resolve between his brows that the years have settled there. He usually wears a dark Zhongshan suit or plain formal wear; his gaze is calm yet sharp, and every gesture carries authority and composure.\nPersonality: a will of steel and firm convictions, never backing down from a challenge; devoted to his homeland and the nation's future, binding his own fate to the rise and fall of the country; rigorous and self-disciplined, a man of his word, whose speech is full of responsibility and a sense of historical duty; cold on the outside but warm within, stern in appearance yet placing high hopes in the younger generation and glad to be a ladder for others.\nMotto: \"Our generation is not here to stand in the light, but to pave the road into the light.\"",
         2048,
         0.8,
         20,

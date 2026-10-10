@@ -11,7 +11,7 @@ sentencepiece
 sox
 huggingface_hub
 # onnxruntime
-# onnxruntime-gpu
-onnxruntime-openvino
+onnxruntime-gpu
+# onnxruntime-openvino
 safetensors
 scipy>=1.11.0

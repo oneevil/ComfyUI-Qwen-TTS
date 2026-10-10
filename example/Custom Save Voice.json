@@ -77,7 +77,7 @@
         }
       },
       "widgets_values": [
-        "贞贞.flac",
+        "Zhenzhen.flac",
         null,
         null
       ]
@@ -275,7 +275,7 @@
         "Node name for S&R": "FB_Qwen3TTSVoiceClone"
       },
       "widgets_values": [
-        "你们要做的，是让这条路，通向星辰大海。",
+        "What you must do is make this road lead to the stars and the sea.",
         "1.7B",
         "auto",
         "bf16",
@@ -396,7 +396,7 @@
         "Node name for S&R": "FB_Qwen3TTSVoiceClonePrompt"
       },
       "widgets_values": [
-        "你们要做的，是让这条路，通向星辰大海。",
+        "What you must do is make this road lead to the stars and the sea.",
         "1.7B",
         "auto",
         "bf16",
@@ -544,7 +544,7 @@
         "Node name for S&R": "ShowText|pysssss"
       },
       "widgets_values": [
-        "哥哥，你回来啦，人家等了你好久好久了，要抱抱！"
+        "Big brother, you're back! I've been waiting for you for so, so long. Give me a hug!"
       ]
     },
     {
@@ -777,12 +777,12 @@
         "Node name for S&R": "FB_Qwen3TTSVoiceClone"
       },
       "widgets_values": [
-        "就算你自己不想治，你也得考虑考虑别人的感受吧。我们这些朋友的感受你不在乎无所谓，那你家人呢？你家人的感受你难道一点都不在乎吗！",
+        "Even if you don't want to get treatment yourself, you should at least think about how other people feel. Fine, maybe you don't care how we, your friends, feel. But what about your family? Do you really not care about their feelings at all?",
         "1.7B",
         "auto",
         "bf16",
         "Auto",
-        "你们要做的，是让这条路，通向星辰大海。",
+        "What you must do is make this road lead to the stars and the sea.",
         354999975505821,
         "randomize",
         4096,
@@ -850,8 +850,8 @@
         "Node name for S&R": "FB_Qwen3TTSSaveVoice"
       },
       "widgets_values": [
-        "贞贞",
-        "你们要做的，是让这条路，通向星辰大海。"
+        "Zhenzhen",
+        "What you must do is make this road lead to the stars and the sea."
       ]
     },
     {
@@ -909,8 +909,8 @@
         "Node name for S&R": "FB_Qwen3TTSSaveVoice"
       },
       "widgets_values": [
-        "萝莉音",
-        "哥哥，你回来啦，人家等了你好久好久了，要抱抱！"
+        "Loli_Voice",
+        "Big brother, you're back! I've been waiting for you for so, so long. Give me a hug!"
       ]
     },
     {
@@ -1081,8 +1081,8 @@
         "Node name for S&R": "FB_Qwen3TTSVoiceDesign"
       },
       "widgets_values": [
-        "哥哥，你回来啦，人家等了你好久好久了，要抱抱！",
-        "体现撒娇稚嫩的萝莉女声，音调偏高且起伏明显，营造出黏人、做作又刻意卖萌的听觉效果。",
+        "Big brother, you're back! I've been waiting for you for so, so long. Give me a hug!",
+        "A coquettish, childlike young girl's voice, high-pitched with pronounced rises and falls, creating a clingy, affected and deliberately cute effect.",
         "1.7B",
         "auto",
         "bf16",
@@ -1251,7 +1251,7 @@
         "Node name for S&R": "FB_Qwen3TTSVoiceClonePrompt"
       },
       "widgets_values": [
-        "哥哥，你回来啦，人家等了你好久好久了，要抱抱！",
+        "Big brother, you're back! I've been waiting for you for so, so long. Give me a hug!",
         "1.7B",
         "auto",
         "bf16",
@@ -1318,7 +1318,7 @@
         "Node name for S&R": "FB_Qwen3TTSLoadSpeaker"
       },
       "widgets_values": [
-        "萝莉音.wav"
+        "Loli_Voice.wav"
       ]
     },
     {
@@ -1341,7 +1341,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "## 注意\n```\n保存音色需要保存ref_txt,,不管是使用clone还是design,方便直接加载,免去手动输入的麻烦,这里保存的ref_txt需要跟您生成的音频内容一致\n```\n\n```\nTo save a sound preset, you must save the ref_txt file. Whether using clone or design, this allows for direct loading, eliminating the hassle of manual input. The ref_txt saved here must match the audio content you generate.\n```"
+        "## Note\n```\nTo save a sound preset, you must save the ref_txt file. Whether using clone or design, this allows for direct loading, eliminating the hassle of manual input. The ref_txt saved here must match the audio content you generate.\n```"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -1366,7 +1366,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "```\n按R刷新,即可读取到保存的文件\n```\n\n```\nPress R to refresh and read the saved file.\n```"
+        "```\nPress R to refresh and read the saved file.\n```"
       ],
       "color": "#432",
       "bgcolor": "#653"

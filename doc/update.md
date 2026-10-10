@@ -24,10 +24,8 @@
 
 ![Custom Model Loading UI](/doc/example3.png)
 
-> **⚠️ Note / 说明**:
+> **⚠️ Note**:
 > Currently, the fine-tuning feature is experimental. Official Qwen3-TTS only supports fine-tuning the Base model, and the results are often inferior to direct zero-shot cloning with `VoiceCloneNode`. For experimentation only.
->
-> 目前微调功能仅为占位/实验性支持。官方目前仅支持微调 Base 模型，实际效果往往不如直接使用 `VoiceCloneNode` 进行零样本克隆。仅供感兴趣的用户尝试。
 
 ## 2026-01-27
 - **Optimization**: Streamlined the `LoadSpeaker` node and removed redundant parameters.
@@ -38,7 +36,7 @@
 - **Persistence Upgrade**: Introduced JSON metadata management to replace old hidden text storage, making voice libraries more transparent and editable.
 - **New Nodes**: Officially added `SaveVoice` and `LoadSpeaker` persistence nodes.
 
-![新增节点截图](/doc/example2.png)
+![New nodes screenshot](/doc/example2.png)
 
 ## 2026-01-24
 

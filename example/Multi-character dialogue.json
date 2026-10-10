@@ -365,12 +365,12 @@
         }
       },
       "widgets_values": [
-        "靠过去？可、可我们才第一次见面……你都不认识我……",
-        "25岁男性上班族，声音清亮但时常犹豫，语速时快时慢，紧张时会轻微结巴。情绪波动明显，从低声呢喃到突然激动再到自我怀疑的叹气。肢体语言丰富，经常无意识的小动作",
+        "Move closer? B-but we've only just met... You don't even know me...",
+        "A 25-year-old male office worker with a clear but often hesitant voice; his pace speeds up and slows down, and he stutters slightly when nervous. His emotions swing noticeably, from a low murmur to sudden excitement to a self-doubting sigh. Expressive body language, with frequent unconscious fidgeting",
         "1.7B",
         "auto",
         "bf16",
-        "Chinese",
+        "English",
         489742050863978,
         "fixed",
         2048,
@@ -550,9 +550,9 @@
         "Node name for S&R": "FB_Qwen3TTSRoleBank"
       },
       "widgets_values": [
-        "御姐",
-        "小林",
-        "旁白",
+        "Lady",
+        "Xiao Lin",
+        "Narrator",
         "Role4",
         "Role5",
         "Role6",
@@ -788,12 +788,12 @@
         }
       },
       "widgets_values": [
-        "小林今天第三次走神了。酒吧昏黄的灯光晃得他心跳加速，而吧台对面那个红唇微扬的女人，正用指尖轻轻摩挲着酒杯边缘",
-        "声音特征沉稳、客观、略带叙事感的女播音腔，普通话标准，语速适中，带有轻微的环境氛围渲染，语调平缓但富有感染力，在关键情节时稍作停顿，增强画面感。情感冷静旁观，偶尔带一丝微妙的反讽",
+        "Xiao Lin has zoned out for the third time today. The dim yellow light of the bar makes his heart race, while the woman across the counter, her red lips curved in a faint smile, gently traces the rim of her glass with a fingertip",
+        "A steady, objective female announcer's voice with a slight storytelling quality, clear standard pronunciation and a moderate pace, lightly evoking the atmosphere of the scene; the tone is even yet engaging, pausing briefly at key moments to make the scene more vivid. Emotionally a calm observer, with an occasional hint of subtle irony",
         "1.7B",
         "auto",
         "bf16",
-        "Chinese",
+        "English",
         238357790124060,
         "fixed",
         2048,
@@ -1033,12 +1033,12 @@
         }
       },
       "widgets_values": [
-        "紧张什么？你连坐姿都在发抖……要不要靠过来一点？这里太吵了",
-        "模拟成熟性感的御姐音色，声音略带磁性且沉稳，语速不快不慢，语调充满自信和一丝挑逗，尾音可以稍微拖长并上扬，给人一种游刃有余的掌控感。",
+        "Why so nervous? Even the way you're sitting is trembling... Want to move a little closer? It's too noisy here",
+        "A mature, alluring woman's voice, slightly magnetic and steady, at an unhurried pace, with a confident and faintly teasing tone; the ends of phrases may be drawn out a little and lifted, giving a sense of effortless control.",
         "1.7B",
         "auto",
         "bf16",
-        "Chinese",
+        "English",
         194743494784600,
         "fixed",
         2048,
@@ -1153,7 +1153,7 @@
         "Node name for S&R": "FB_Qwen3TTSLoadSpeaker"
       },
       "widgets_values": [
-        "萝莉音.wav"
+        "Loli_Voice.wav"
       ]
     },
     {
@@ -1209,7 +1209,7 @@
         "Node name for S&R": "FB_Qwen3TTSLoadSpeaker"
       },
       "widgets_values": [
-        "萝莉音.wav"
+        "Loli_Voice.wav"
       ]
     },
     {
@@ -1316,7 +1316,7 @@
         "aux_id": "flybirdxx/ComfyUI-Qwen-TTS"
       },
       "widgets_values": [
-        "紧张什么？你连坐姿都在发抖……要不要靠过来一点？这里太吵了",
+        "Why so nervous? Even the way you're sitting is trembling... Want to move a little closer? It's too noisy here",
         "1.7B",
         "auto",
         "bf16",
@@ -1429,7 +1429,7 @@
         "aux_id": "flybirdxx/ComfyUI-Qwen-TTS"
       },
       "widgets_values": [
-        "靠过去？可、可我们才第一次见面……你都不认识我……",
+        "Move closer? B-but we've only just met... You don't even know me...",
         "1.7B",
         "auto",
         "bf16",
@@ -1542,7 +1542,7 @@
         "aux_id": "flybirdxx/ComfyUI-Qwen-TTS"
       },
       "widgets_values": [
-        "小林今天第三次走神了。酒吧昏黄的灯光晃得他心跳加速，而吧台对面那个红唇微扬的女人，正用指尖轻轻摩挲着酒杯边缘",
+        "Xiao Lin has zoned out for the third time today. The dim yellow light of the bar makes his heart race, while the woman across the counter, her red lips curved in a faint smile, gently traces the rim of her glass with a fingertip",
         "1.7B",
         "auto",
         "bf16",
@@ -1571,7 +1571,7 @@
       "outputs": [],
       "properties": {},
       "widgets_values": [
-        "```\n- pause_linebreak (由原 pause_seconds 重命名而来):\n控制脚本中换行符（每一行结束）后的停顿时间。\n- period_pause (新增):\n控制句号 (.) 后的停顿时间。\n- comma_pause (新增):\n控制逗号 (,) 后的停顿时间。\n- question_pause (新增):\n控制问号 (?) 后的停顿时间。\n- hyphen_pause (新增):\n控制连字符 (-) 后的停顿时间。\n```\n```\n- pause_linebreak (renamed from original pause_seconds):</br>\nControls the pause duration after line breaks (end of each line) in the script.\n- period_pause (new):\nControls the pause duration after periods (.).\n- comma_pause (new):\nControls the pause duration after commas (,).\n- question_pause (new):\nControls the pause duration after a question mark (?).\n- hyphen_pause (new):\nControls the pause duration after a hyphen (-).\n```"
+        "```\n- pause_linebreak (renamed from original pause_seconds):</br>\nControls the pause duration after line breaks (end of each line) in the script.\n- period_pause (new):\nControls the pause duration after periods (.).\n- comma_pause (new):\nControls the pause duration after commas (,).\n- question_pause (new):\nControls the pause duration after a question mark (?).\n- hyphen_pause (new):\nControls the pause duration after a hyphen (-).\n```"
       ],
       "color": "#432",
       "bgcolor": "#653"
@@ -1852,7 +1852,7 @@
         "Node name for S&R": "FB_Qwen3TTSDialogueInference"
       },
       "widgets_values": [
-        "旁白: 小林今天第三次走神了。酒吧昏黄的灯光晃得他心跳加速，而吧台对面那个红唇微扬的女人，正用指尖轻轻摩挲着酒杯边缘。\n御姐: 小弟弟，有兴趣陪姐姐喝一杯吗？\n小林: 啊？我、我……我其实不太会喝酒……\n旁白: 他的手指无意识地抠着杯沿，喉结上下滚动，像被什么无形的东西掐住了呼吸。\n御姐: 不会喝？那正好——姐姐教你。这杯莫吉托，甜得刚好，就像你刚才偷看我的眼神。\n小林: 我、我没偷看！……好吧，看了一眼。就一眼！\n旁白: 他猛地坐直，又立刻缩回肩膀，仿佛那句话烫伤了自己的嘴。\n御姐: 紧张什么？你连坐姿都在发抖……要不要靠过来一点？这里太吵了。\n小林: 靠过去？可、可我们才第一次见面……你都不认识我……\n御姐: 名字不重要，感觉才重要。而我感觉……你有点可爱。\n旁白: 小林的耳朵瞬间红透，连耳后那颗小痣都像在发烫。他想逃，脚却像钉在了高脚凳上。\n小林: 可爱？没人这么说过我……他们都说我太闷，连朋友圈都发不出手……\n御姐: 那现在呢？敢不敢发一条——'今晚，和一个危险又迷人的姐姐喝了一杯'？\n小林: ……我连配图都不敢选。你笑起来太……太有杀伤力了。\n御姐: 那就别发了。有些故事，只适合藏在两个人的记忆里——比如，接下来你打算请我跳支舞吗？\n旁白: 他张了张嘴，没发出声音。但这一次，他没有低头，而是轻轻推开了那杯没动过的苏打水，朝她伸出了手。",
+        "Narrator: Xiao Lin has zoned out for the third time today. The dim yellow light of the bar makes his heart race, while the woman across the counter, her red lips curved in a faint smile, gently traces the rim of her glass with a fingertip.\nLady: Hey there, young man, care to have a drink with me?\nXiao Lin: Huh? I, I... I'm actually not much of a drinker...\nNarrator: His fingers pick at the rim of his glass without him noticing, and his Adam's apple bobs up and down, as if something invisible had him by the throat.\nLady: Not a drinker? Perfect, then I'll teach you. This mojito is just sweet enough, like the look you were sneaking at me a moment ago.\nXiao Lin: I, I wasn't sneaking a look! ...Okay, I looked once. Just once!\nNarrator: He jerks upright, then immediately hunches his shoulders again, as if the words had burned his own mouth.\nLady: Why so nervous? Even the way you're sitting is trembling... Want to move a little closer? It's too noisy here.\nXiao Lin: Move closer? B-but we've only just met... You don't even know me...\nLady: Names don't matter, feelings do. And my feeling is... you're kind of cute.\nNarrator: Xiao Lin's ears turn bright red in an instant; even the little mole behind his ear seems to burn. He wants to run, but his feet feel nailed to the bar stool.\nXiao Lin: Cute? Nobody has ever called me that... They all say I'm too dull, that I can't even bring myself to post anything online...\nLady: And now? Do you dare post one: 'Tonight I had a drink with a dangerous and charming lady'?\nXiao Lin: ...I wouldn't even dare pick a photo for it. Your smile is too... too devastating.\nLady: Then don't post it. Some stories belong only in the memories of two people. For instance, are you going to ask me to dance next?\nNarrator: He opens his mouth, but no sound comes out. This time, though, he doesn't look down; he gently pushes aside the untouched soda water and holds out his hand to her.",
         "1.7B",
         "auto",
         "bf16",
